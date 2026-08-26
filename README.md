@@ -7,3 +7,12 @@
 <p align="center">
 <img alt="Untitled213_20260826191954" src="https://github.com/user-attachments/assets/d21ada4f-648c-4a61-9cac-8f9a591875df" height: 666 />
 </p>
+ㅤㅤㅤ
+ㅤㅤㅤ
+ㅤㅤㅤ
+ㅤㅤ
+[main]
+
+
+
+[main]: https://github.com/drfunkbeat/
