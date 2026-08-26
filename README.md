@@ -1,3 +1,6 @@
+[main]
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=yOU_dID_nOT_sTAND_a_mICROPERCENTAGE_;oF_a_cHANCE.+++++%E2%99%A1" alt="Typing SVG" /></a>
 </p>
@@ -11,9 +14,5 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 ㅤㅤ
-
-[main]
-
-
 
 [main]: https://github.com/drfunkbeat/
